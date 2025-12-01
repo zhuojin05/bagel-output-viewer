@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Tool / build artifacts
+.pytest_cache/
+.cache/
+CACHEDIR.TAG
+.lock
+
+# uv / poetry / etc (keep uv.lock tracked if you like)
+# uv.lock  # (comment this out if you DO want to track uv.lock)
+
+# OS junk
+.DS_Store
+
+# Bagel viewer outputs
+results/
