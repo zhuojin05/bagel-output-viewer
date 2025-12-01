@@ -116,4 +116,4 @@ For VS Code users, if you see "Import could not be resolved", ensure VS Code is 
 - Choose `.venv/bin/python` or `./bagel-output-viewer/bin/python`.
 
 ## License
-MIT# bagel-output-viewer
+MIT
