@@ -14,7 +14,7 @@ The simple & flexible tools summarise structure quality & generates PAE heatmaps
 
 1. clone repository from Github. 
 ```bash
-git clone https://github.com/softnanolab/bagel
+git clone https://github.com/zhuojin05/bagel-output-viewer.git
 ```
 2. Install uv (if not already installed).
 ```bash
